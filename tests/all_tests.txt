@@ -1,2 +1,6 @@
 sanity/sanity.dict sanity/sanity.in sanity/sanity.ref
+longWord/longWord.dict longWord/longWord.in longWord/longWord.ref
+mytest1/mytest1.dict mytest1/mytest1.in mytest1/mytest1.ref
+numberFile/numberFile.dict numberFile/numberFile.in numberFile/numberFile.ref
+emptyFile/emptyFile.dict emptyFile/emptyFile.in emptyFile/emptyFile.ref
 binary_edge/binary_edge.dict ../philphix ../philphix
