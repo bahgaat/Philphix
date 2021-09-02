@@ -1,3 +1,1 @@
-# sp21-proj1-starter
-
-Please add a description about what you created! Also add lessons you learned or bugs you encountered. 
+A simple text replacement tool (i.e. imagine you had a paragraph of text and wanted to replace all instances of the word ‘hi’ in that paragraph of text with ‘hello’).
